@@ -1,15 +1,25 @@
 {
   "name": "prework_project",
   "version": "1.0.0",
-  "description": "",
+  "description": "## Objectives",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Bobby Willis",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.4"
-  }
+    "express": "^4.17.0",
+    "quotes": "^0.2.0",
+    "random-movie-quotes": "^1.0.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rebus32/application_assignment.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rebus32/application_assignment/issues"
+  },
+  "homepage": "https://github.com/rebus32/application_assignment#readme"
 }
